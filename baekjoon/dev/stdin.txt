@@ -1,10 +1,15 @@
-9
-aaa
-aaazbz
-babb
-aazz
-azbz
-aabbaa
-abacc
-aba
-zzaz
+14
+push 1
+push 2
+top
+size
+empty
+pop
+pop
+pop
+size
+empty
+pop
+push 3
+empty
+top
